@@ -37,7 +37,7 @@ body{
 .card{
     width: 88%;
     max-width: 380px;
-    height: 620px;
+    height: 640px;
 
     border-radius: 1.5em;
     overflow: hidden;
@@ -94,8 +94,6 @@ body{
     color: var(--color5);
     font-size: 27px;
     margin-bottom: .5em;
-
-    max-width: 244px;
 }
 
 .card__info__text p{
